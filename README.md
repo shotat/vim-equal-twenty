@@ -11,15 +11,20 @@ Let's install and play the original one.
 
 ##Original
 
-[=Twenty for iOS](https://itunes.apple.com/us/app/twenty-equaltwenty/id1046790161?ls=1&mt=8)
-[=Twenty for Android](https://play.google.com/store/apps/details?id=net.nakanishilab.EqualTwenty)
+ * [=Twenty for iOS](https://itunes.apple.com/us/app/twenty-equaltwenty/id1046790161?ls=1&mt=8)
+
+ * [=Twenty for Android](https://play.google.com/store/apps/details?id=net.nakanishilab.EqualTwenty)
 
 ##Rule
  
- * Please refer the linke above.
-     
+ Please refer the linke above.
+
 ##Usage
-  :EqualTwenty
+
+```
+ :EqualTwenty
+```
+
 ##How to play
 
  * h: move left
@@ -30,5 +35,6 @@ Let's install and play the original one.
  * d: submit answer 
  * r: retry
  * q: quit
+
 ## Author
   shotat
