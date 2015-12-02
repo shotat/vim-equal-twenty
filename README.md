@@ -1,9 +1,9 @@
 #EqualTwenty for vim plugin
 ========================
 
-This is a Vim plugin to play "=Twenty"
+This is a Vim plugin to play "=Twenty".
+
 It is very popular game and produced by the student in the University of Tokyo (not me).
-The original game is 
 
 Let's install and play the original one.
  
