@@ -1,4 +1,4 @@
-#EqualTwenty for vim plugin
+#Vim Plugin for EqualTwenty 
 ========================
 
 This is a Vim plugin to play "=Twenty".
@@ -9,7 +9,7 @@ Let's install and play the original one.
  
 (This plugin is so poor.)
 
-##Original
+##Original Game
 
  * [=Twenty for iOS](https://itunes.apple.com/us/app/twenty-equaltwenty/id1046790161?ls=1&mt=8)
 
@@ -17,7 +17,7 @@ Let's install and play the original one.
 
 ##Rule
  
- Please refer the linke above.
+ Please refer the link above.
 
 ##Usage
 
